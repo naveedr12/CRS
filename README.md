@@ -21,5 +21,5 @@ python main.py
 ```
 
 ## Future Improvements
-- Web UI with Flask/Streamlit
+- Web UI with Flask/Streamlit DONE ✅
 - Advanced filters
