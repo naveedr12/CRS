@@ -22,4 +22,5 @@ python main.py
 
 ## Future Improvements
 - Web UI with Flask/Streamlit DONE ✅
+- More User friendly ui
 - Advanced filters
